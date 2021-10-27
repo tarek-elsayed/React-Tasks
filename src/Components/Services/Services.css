@@ -1,0 +1,12 @@
+.servContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 2rem;
+    column-gap: 5rem;
+    padding: 3rem;
+    color: white;
+}
+
+.bg_color{
+	background-color: hsl(218, 28%, 13%);
+}

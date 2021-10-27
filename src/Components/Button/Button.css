@@ -1,0 +1,14 @@
+button{
+    outline: none;
+    border: none;
+    color: white;
+    font-family: 'Raleway';
+    font-weight: 700;
+    border-radius: 5rem;
+    font-size: 1.4em;
+    padding: 1.3rem 5rem;
+}
+
+button:hover{
+    opacity: .8;
+}

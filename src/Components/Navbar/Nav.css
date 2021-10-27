@@ -1,0 +1,16 @@
+.nav-color{
+    background-color:  hsl(217, 35%, 19%);
+    
+}
+.brand img{
+    width: 100px;
+}
+
+@media screen and (min-width:  1024px){
+    nav {
+        padding: .4rem 0;
+    }
+    ul{
+        flex-wrap: nowrap;
+    }
+}

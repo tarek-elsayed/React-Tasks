@@ -1,0 +1,10 @@
+.bg_bottom {
+	position: absolute;
+	width: 100%;
+	z-index: -1;
+}
+
+.bg_color{
+	background-color: hsl(218, 28%, 13%);
+}
+
